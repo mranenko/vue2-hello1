@@ -10,7 +10,7 @@ Simple 'Hello World' with a Vue 2 CDN.
 
 ## Steps to re-create
 
-### 1. Add a Vue 2 CDN in HTML
+### 1. Add a Vue 2 CDN in index.html
 
 ```
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
@@ -48,3 +48,6 @@ Simple 'Hello World' with a Vue 2 CDN.
   {{ hello }}
 </div>
 ```
+
+
+### 5. Preview `index.html` in a browser.
