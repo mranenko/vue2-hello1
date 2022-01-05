@@ -7,17 +7,18 @@ Simple 'Hello World' with a Vue 2 CDN.
 
 > Note: The latest Vue 2 version used here is 2.6.14.
 
+---
 
 ## Steps to re-create
 
-### 1. Add a Vue 2 CDN in index.html
+1. **Add a Vue 2 CDN in index.html**
 
 ```
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
 ```
 
 
-### 2. Add an element with id="app"
+2. **Add an element with `id="app"`**
 
 ```
 <div id="app">
@@ -26,7 +27,7 @@ Simple 'Hello World' with a Vue 2 CDN.
 ```
 
 
-### 3. Add a script to initialize Vue 2 app
+3. **Add a script to initialize Vue 2 app**
 
 ```
 <script>
@@ -40,7 +41,7 @@ Simple 'Hello World' with a Vue 2 CDN.
 ```
 
 
-### 4. Display Vue 2 data within the element with id="app"
+4. **Display Vue 2 data within the element with `id="app"`**
 
 ```
 <div id="app">
@@ -50,4 +51,4 @@ Simple 'Hello World' with a Vue 2 CDN.
 ```
 
 
-### 5. Preview `index.html` in a browser.
+5. **Open `index.html` in a browser to preview**
